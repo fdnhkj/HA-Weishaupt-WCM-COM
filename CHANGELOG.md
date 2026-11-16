@@ -4,7 +4,10 @@ Release notes are written for Home Assistant and HACS: short headings, concise
 bullet points, and no raw commit list. Before creating a version tag, replace
 `Unreleased` with the exact version number used by the tag.
 
-## [Unreleased]
+## [1.5.5.1]
+
+Fork build of upstream 1.5.5 with two pending fixes (zobe123/HA-Weishaupt-WCM-COM#10
+and zobe123/HA-Weishaupt-WCM-COM#11). Upstream 1.5.6 or later supersedes it.
 
 ### Fixed
 
